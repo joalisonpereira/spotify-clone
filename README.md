@@ -7,8 +7,8 @@
 </p>
 
 <h3 align="center">
-  <img alt="coworking" 
-    src="./logo/rec1.png?raw=true" width="180px"/>
+  <img alt="Spotify" 
+    src="./logo.png?raw=true" width="180px"/>
 </h3>
 
 ## 🙋‍♂️ Author
