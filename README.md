@@ -1,15 +1,10 @@
-<h1 align="center">
+<h1 align="left">
   <strong>Spotify Clone</strong>
 </h1>
 
-<p align="center">
+<p align="left">
 🗣👥 An spotify clone with web and native applications.
 </p>
-
-<h3 align="center">
-  <img alt="Spotify" 
-    src="./logo.png?raw=true" width="500px"/>
-</h3>
 
 ## 🙋‍♂️ Author
 
