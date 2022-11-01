@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img alt="Spotify" 
-    src="./logo.png?raw=true" width="180px"/>
+    src="./logo.png?raw=true" width="500px"/>
 </h3>
 
 ## 🙋‍♂️ Author
