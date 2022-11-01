@@ -3,9 +3,9 @@
 </h1>
 
 <p align="left">
-🗣👥 An spotify clone with web and native applications.
+  An spotify clone with web and native applications.
 </p>
 
-## 🙋‍♂️ Author
+## Author
 
 - **Joalison Pereira** - [joalisonpereira](https://github.com/joalisonpereira)
